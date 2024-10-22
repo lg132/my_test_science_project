@@ -1,6 +1,8 @@
 # Science-project
 A demo repository for a science project. This is used in [part 3 of our git training for code publication](https://github.com/climate-service-center/git-tutorial/tree/main/part_03)!
 
+This is my test science project. 
+
 ## Installation
 
 Create a new environment, e.g., 
